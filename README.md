@@ -16,7 +16,7 @@ Monorepo scaffold for a firmware + Android + web + Java backend MVP.
 - `LED_OFF`
 - `GET_STATUS`
 
-See `/home/runner/work/mpd/mpd/docs/protocol.md`.
+See `docs/protocol.md`.
 
 ## Local checks
 
