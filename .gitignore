@@ -1,0 +1,10 @@
+# Build artifacts
+firmware/build/
+backend/target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
