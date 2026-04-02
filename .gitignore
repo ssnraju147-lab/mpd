@@ -1,6 +1,7 @@
 # Build artifacts
 firmware/build/
 backend/target/
+android/.gradle/
 
 # IDE
 .idea/
